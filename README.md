@@ -1,7 +1,7 @@
 # we
 wewe
 
-# Deep Learning Papers Reading Roadmap
+# Meta Learning Papers Reading Roadmap
 
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
@@ -21,7 +21,25 @@ I would continue adding papers to this roadmap.
 
 ---------------------------------------
 
-# 1 Deep Learning History and Basics
+# 1 Tutorials
+
+# 2 Surveys
+
+# 3 Methods
+
+# 4 Theories
+
+# 5 Few-shot
+
+# 6 Meta-RL
+
+# 7 Meta-Robot
+
+# 8 Applications
+
+# 9 Researchers
+
+# 10 Labs
 
 ## 1.0 Book
 
