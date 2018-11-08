@@ -1,6 +1,3 @@
-# we
-wewe
-
 # Meta Learning Papers Reading Roadmap
 
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
